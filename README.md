@@ -4,10 +4,10 @@ Basta Fazoolin' Restaurant Management System
 
 ## Project Overview
 This Python-based restaurant management system was built for "Basta Fazoolin' with my Heart," a family-style Italian restaurant chain. The system manages multiple restaurant locations, various menu offerings, and supports different business operations.
-Features.
 
-## Menu Management
-Create and manage different menus with unique operating hours
+## Features.
+* Menu Management
+* Create and manage different menus with unique operating hours
 Store menu items with their corresponding prices
 Calculate bills based on customer orders
 Display menu availability information
