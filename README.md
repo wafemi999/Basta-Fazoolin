@@ -28,3 +28,7 @@ This Python-based restaurant management system was built for "Basta Fazoolin' wi
 * Method functionality
 * Object relationships and hierarchies
 * System modeling for real-world business operations
+
+
+
+![Screenshot (133)](https://github.com/user-attachments/assets/19db6c20-f5b1-42ea-a6bd-e5d4bfbcf113)
