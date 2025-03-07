@@ -7,10 +7,10 @@ This Python-based restaurant management system was built for "Basta Fazoolin' wi
 
 ## Features:
 * Menu Management
-* Create and manage different menus with unique operating hours
-* Store menu items with their corresponding prices
-* Calculate bills based on customer orders
-* Display menu availability information
+* Create and manage different menus with unique operating hours.
+* Store menu items with their corresponding prices.
+* Calculate bills based on customer orders.
+* Display menu availability information.
 
 ## Franchise Operations
 * Manage multiple restaurant locations
