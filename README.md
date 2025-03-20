@@ -1,4 +1,4 @@
-# Basta-Fazoolin
+# Basta-Fazoolin.
 A Restaurant franchise simulation with python script.
 Basta Fazoolin' Restaurant Management System.
 
