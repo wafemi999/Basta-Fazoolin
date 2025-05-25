@@ -13,9 +13,9 @@ This Python-based restaurant management system was built for "Basta Fazoolin' wi
 * Display menu availability information.
 
 ## Franchise Operations:
-* Manage multiple restaurant locations
-* Determine which menus are available at specific times
-* Associate appropriate menus with each franchise location
+* Manage multiple restaurant locations.
+* Determine which menus are available at specific times.
+* Associate appropriate menus with each franchise location.
 
 ## Business Administration
 * Support multiple business entities under the same management system
