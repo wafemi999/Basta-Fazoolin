@@ -1,6 +1,6 @@
-# Basta-Fazoolin:.
-A Restaurant franchise simulation with python script..
-Basta Fazoolin' Restaurant Management System..
+# Basta-Fazoolin:
+A Restaurant franchise simulation with python script.
+Basta Fazoolin' Restaurant Management System.
 
 ## Project Overview:
 This Python-based restaurant management system was built for "Basta Fazoolin' with my Heart," a family-style Italian restaurant chain. The system manages multiple restaurant locations, various menu offerings, and supports different business operations..
