@@ -17,12 +17,12 @@ This Python-based restaurant management system was built for "Basta Fazoolin' wi
 * Determine which menus are available at specific times.
 * Associate appropriate menus with each franchise location.
 
-## Business Administration
+## Business Administration:
 * Support multiple business entities under the same management system
 * Expand to new restaurant concepts (demonstrated with "Take a' Arepa")
 * Maintain consistent functionality across different restaurant brands
 
-## Skills Demonstrated
+## Skills Demonstrated:
 * Object-oriented programming principles..
 * Class design and implementation..
 * Method functionality..
